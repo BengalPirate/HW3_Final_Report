@@ -1435,10 +1435,6 @@ Comparison with Training:
 - ✅ Phase 2 code (Venkata Lingam): `Enhanced_lightbgm.py`, `lightbgm.py`, notebook
 - ✅ Team contributions clearly documented in report
 
-### Not Included (Per Instructions)
-- ❌ Raw data files (trainingData.txt, testData.txt, blindData.txt)
-- ❌ Partner evaluation (submitted separately by each partner)
-
 ---
 
 ## Conclusion
