@@ -1,0 +1,8 @@
+  trainingData.txt
+  trainingTruth.txt
+  testData.txt
+  blindData.txt
+  __pycache__/
+  *.pyc
+  .ipynb_checkpoints/
+  .DS_Store
